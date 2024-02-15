@@ -3,7 +3,7 @@
 let idade = prompt('digite sua idade:')
 let nacionalidade = prompt ('brasileira')
 
-alert( idade >= 16 && nacionalidade === 'brasileira')
+alert(idade >= 16 && nacionalidade === 'brasileira')
 
 
 // Exercicio 2
