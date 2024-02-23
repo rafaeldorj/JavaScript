@@ -104,4 +104,4 @@ const macaMaisCaraQueBanana = frutas.get("Maçã") > frutas.get("Banana");
 const peraNaoCustaMesmoQueUva = frutas.get("Pêra") !== frutas.get("Uva");
 
 console.log("A maçã é mais cara que a banana?", macaMaisCaraQueBanana);
-console.log("A pêra não custa o mesmo que a uva?", peraNaoCustaMesmoQueUva);
+console.log("A pêra não custa o mesmo que a uva?", peraNaoCustaMesmoQueUva)
